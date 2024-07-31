@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## 🌱 I’m currently learning Artificial Intelligence
+## ⚡ Fun fact: I love the Psalms 23 Chapter in my Bible
+## 😄 Pronouns: She
 <!--
 **Miraclin246/Miraclin246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
